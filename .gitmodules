@@ -6,4 +6,4 @@
 	url = https://github.com/hartwindersingh/MiBand_HRX.git
 [submodule "hrs-heartrate-osc"]
 	path = vendor/hrs-heartrate-osc
-	url = https://github.com/wwtssu/hrs-heartrate-osc.git
+	url = https://github.com/hartwindersingh/Miband-heartrate-osc.git
