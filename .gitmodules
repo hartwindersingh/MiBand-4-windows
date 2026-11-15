@@ -1,0 +1,9 @@
+[submodule "miband4-protocol"]
+	path = vendor/miband4-protocol
+	url = https://github.com/satcar77/miband4.git
+[submodule "miband-hrx-accelerometer"]
+	path = vendor/miband-hrx-accelerometer
+	url = https://github.com/4lhc/MiBand_HRX.git
+[submodule "hrs-heartrate-osc"]
+	path = vendor/hrs-heartrate-osc
+	url = https://github.com/wwtssu/hrs-heartrate-osc.git
